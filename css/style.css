@@ -20,16 +20,17 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #b91e1edc;
 }
 
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
+    text-underline-position: below;
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #b91e1edc;
 }
 
 .details {
