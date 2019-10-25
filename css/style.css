@@ -13,8 +13,7 @@ body {
 .masthead {
   padding: 6em 0;
   background-image: url('../img/image0.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .masthead-intro {
@@ -26,7 +25,7 @@ body {
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
-    text-underline-position: below;
+    font-style: italic
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
